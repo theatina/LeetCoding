@@ -7,3 +7,5 @@
     <br>
     <a align="center" > <b>Updated:</b> 15/03/2021 13:51 </a>
     <br>
+    <a align="center" > <b>LeetCode link:</b> <a href="https://leetcode.com/problems/single-number/" title="Why not check!?"> 136. Single Number </a>
+    <br>
